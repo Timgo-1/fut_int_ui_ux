@@ -1,5 +1,5 @@
 # Modern UI/UX GPT-3
-### [Live Site](https://fut-int.cf/)
+### [Live Site](https://fut-int.tk/)
 
 ![Modern UI/UX Fut-Int](https://i.ibb.co/NZ4gV7W/fut-int.png)
 
